@@ -1,0 +1,22 @@
+#titulo{
+    color: blueviolet;
+
+}
+
+
+
+body {
+   min-height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+  ;
+
+}
+
+.card {
+    background: var(--i);
+    border-radius: 5px;
+    width: 200px;
+    height: 300px;
+}

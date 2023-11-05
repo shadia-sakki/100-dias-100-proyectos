@@ -1,0 +1,54 @@
+
+#titulo {
+color: white;
+border-style: groove;
+border-width: 5px;
+display: flex;
+justify-content: center;
+background-image: url(ilustracion-kitsune-dibujada-mano_23-2149369820.avif);
+background-size: 40px;
+background-repeat:repeat-y ;
+
+
+
+}
+
+p.texto { 
+    color:blueviolet; font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    background-color: black;
+    background-size: 2px;
+
+}
+
+p.especial {
+    color: mediumvioletred; font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: black;
+}
+
+div p {
+    color:aquamarine; font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: black;
+}
+
+body {
+    background-image: url(yumi-anime-club-logo-design-by-ansi-rasslen-dribbble.png);
+ 
+    background-repeat:repeat;
+    background-position: center;
+   
+    
+}
+
+
+
+
+
